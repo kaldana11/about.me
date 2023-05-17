@@ -1,0 +1,83 @@
+---
+title: "First Knit"
+author: "Kimberly Aldana"
+output: 
+  html_document:
+    number_sections: true
+    toc: true
+    toc_depth: 5
+date: "`r Sys.Date()`"   
+---
+
+# A Little Survey
+
+Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct punctuation. 
+
+## A short history of you.  
+Where did you attend High School, and did you graduate? Compare English class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
+  
+### my answer     
+  I attended High School at Benjamin Franklin High School located in Los Angeles, California. I graduated in 2018 passing with honors. If I were to compare the two courses (Math,English), I would say English is the easiest. English is mainly a free place where you can get creative with your wordings, while Math is mainly sticking to a certain way to solve problems. The subject I did best in was English. It helped pave my way into sticking on learning new things.
+
+     
+
+
+## Your computer and your and its capability?  
+ For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
+
+### my answer   
+I do have computer access within my household with an Apple product computer. Between a scale of 1-10 with my computer knowledge, I would say my scale falls on 6. The internet access in my household is excellent.
+   
+
+## Others and You?   
+What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
+
+### my answer     
+A name I would be preferred to be called in class is Kimberly or short for Kim.
+   
+ 
+
+
+
+
+## Aspirations?   
+What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
+
+### my answer     
+What I want to achieve in life is to be successful enough where I'm comfortable with my finances. The greatest interest within my college subjects would be  a class where I learn new life skills. The degree I'm planning on graduating with is Sociology.
+   
+ 
+
+
+
+
+## Past adventures?  
+Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
+
+### my answer     
+I've been to an foreign country before, which is my home state Ecuador, located in South America. I have never been in the military but if I had the choice, I would join the Marines. I specifically chose that branch because I'm somewhat familiar with it since my bestfriend is currently enrolled.
+  
+
+
+
+
+## Why are you taking Statistics?  
+Did you take Math 115 or Math 116 ?  Did you know Math 115 only satisfies a general education requirement but that Math 116 counts as taking statistics in several transfer institutions??  
+What grade do you need to attain in stats to not upset your future plans, What is your plan?  
+ 
+
+### my answer     
+I have not taken Math 115 or 116 until now. I would love to pass this class with an A. I'm planning on achieving that goal by placing myself in tutoring or taking advantage of office hours. I want to maintain a GPA of 3.5 and above in order to graduate with honors, once again.
+   
+ 
+
+
+
+
+
+
+  
+
+
+
+
